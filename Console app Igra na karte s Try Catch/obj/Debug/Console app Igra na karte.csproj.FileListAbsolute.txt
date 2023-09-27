@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\obj\Debug\Console app Igra na karte.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\obj\Debug\Console app Igra na karte.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\obj\Debug\Console app Igra na karte.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\bin\Debug\Console app Igra na karte.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\bin\Debug\Console app Igra na karte.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\bin\Debug\Console app Igra na karte.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\obj\Debug\Console app Igra na karte.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Console app Igra na karte\obj\Debug\Console app Igra na karte.pdb
